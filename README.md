@@ -1,2 +1,2 @@
 # KU NO 2022 Assignment 1
-No descriptions (for now).
+See `code/case_studies.ipynb` for details.
